@@ -11,7 +11,7 @@ declare(strict_types=1);
  *  file that was distributed with this source code.
  */
 
-namespace NunoMaduro\LaravelConsoleTask;
+namespace SupraCodes\LaravelConsoleTask;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\ServiceProvider;

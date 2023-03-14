@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NunoMaduro\\LaravelConsoleTask\\": "src/"
+            "SupraCodes\\LaravelConsoleTask\\": "src/"
         }
     },
     "config": {
@@ -36,7 +36,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "NunoMaduro\\LaravelConsoleTask\\LaravelConsoleTaskServiceProvider"
+                "SupraCodes\\LaravelConsoleTask\\LaravelConsoleTaskServiceProvider"
             ]
         }
     },
