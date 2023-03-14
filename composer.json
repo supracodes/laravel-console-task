@@ -1,6 +1,5 @@
 {
     "name": "supracodes/laravel-console-task",
-    "version": "1.0.0",
     "description": "Laravel Console Task is a output method for your Laravel/Laravel Zero commands.",
     "keywords": ["console", "command-line", "php", "cli", "laravel-zero", "laravel", "artisan", "symfony"],
     "license": "MIT",
