@@ -46,7 +46,7 @@ class LaravelConsoleTaskServiceProvider extends ServiceProvider
                     $result = true;
                 } else {
                     try {
-                        $result = $task() === false ? false : true;
+			$result = $task();
                     } catch (\Exception $taskException) {
                         $result = false;
                     }
